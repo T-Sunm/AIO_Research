@@ -171,4 +171,3 @@ cython_debug/
 .pypirc
 
 DETR/saved_models
-DETR/data
