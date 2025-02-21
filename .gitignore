@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 
 DETR/saved_models
+modify_yolob8/ultralytics
+modify_yolob8/runs
